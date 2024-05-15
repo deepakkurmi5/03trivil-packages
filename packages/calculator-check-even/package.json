@@ -1,7 +1,7 @@
 {
-  "name": "is-odd",
+  "name": "calculator-check-even",
   "version": "3.0.0",
-  "description": "",
+  "description": "calculator-check-even",
   "keywords": [],
   "publishConfig": {
     "access": "public",
@@ -9,8 +9,8 @@
   },
   "author": "deepakkurmi5 <deepakkurmi874@gmail.com>",
   "license": "ISC",
-  "main": "dist/is-odd.js",
-  "types": "dist/is-odd.d.ts",
+  "main": "dist/calculator-check-even.js",
+  "types": "dist/calculator-check-even.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -30,12 +30,9 @@
     "url": "https://github.com/deepakkurmi5/03trivil-packages/issues"
   },
   "homepage": "https://github.com/deepakkurmi5/03trivil-packages#readme",
-  "dependencies": {
-    "is-even": "^3.0.0"
-  },
   "devDependencies": {
     "jest": "^29.7.0",
     "typescript": "^5.4.5"
   },
-  "gitHead": "e3f49727b2323dc3cbaa9fc8bdf444a6a7785b8a"
+  "gitHead": "84a0a74a294ce1e2c80192e0c393e1c0087ee768"
 }

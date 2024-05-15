@@ -1,4 +1,4 @@
-const { isOdd } = require('../dist/is-odd.js');
+const { isOdd } = require('../dist/calculator-check-odd.js');
 
 test('isOdd ', () => {
   expect(isOdd(1)).toBe(true);
