@@ -1,5 +1,5 @@
 {
-  "name": "@docs/demo",
+  "name": "root",
   "private": true,
   "workspaces": [
     "packages/*"

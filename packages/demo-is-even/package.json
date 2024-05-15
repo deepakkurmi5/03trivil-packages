@@ -1,5 +1,5 @@
 {
-  "name": "@docs/demo-is-even",
+  "name": "@dk/demo-is-even",
   "version": "1.0.3",
   "description": "",
   "keywords": [],
@@ -30,5 +30,5 @@
     "jest": "^29.7.0",
     "typescript": "^5.4.5"
   },
-  "gitHead": "52bb532abe182eb17f6da59a392bd3d3e9967a7f"
+  "gitHead": "b3a71842fdc56ed73dd54a6b528013b8b654a7a9"
 }
