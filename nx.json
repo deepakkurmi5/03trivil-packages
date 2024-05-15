@@ -3,9 +3,9 @@
   "defaultBase": "master",
   "tasksRunnerOptions": {
     "default": {
+      "runner": "nx/tasks-runners/default",
       "options": {
         "cacheableOperations": [
-          "build",
           "test"
         ]
       }
@@ -20,22 +20,10 @@
     ]
   },
   "targetDefaults": {
-    "build": {
-      "inputs": [
-        "public",
-        "^public"
-      ],
-      "dependsOn": [
-        "^build"
-      ]
-    },
     "test": {
       "inputs": [
         "all",
         "^public"
-      ],
-      "dependsOn": [
-        "build"
       ]
     }
   }
