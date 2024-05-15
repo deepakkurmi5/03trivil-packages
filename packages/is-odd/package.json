@@ -1,6 +1,6 @@
 {
   "name": "is-odd",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "keywords": [],
   "publishConfig": {
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/deepakkurmi5/03trivil-packages#readme",
   "dependencies": {
-    "is-even": "^2.0.0"
+    "is-even": "^3.0.0"
   },
   "devDependencies": {
     "jest": "^29.7.0",
