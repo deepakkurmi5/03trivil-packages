@@ -1,4 +1,4 @@
-const { isEven } = require('../dist/demo-is-even');
+const { isEven } = require('../dist/is-even');
 
 test('isEven ', () => {
   expect(isEven(1)).toBe(false);
