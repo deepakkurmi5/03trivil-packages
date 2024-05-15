@@ -1,7 +1,7 @@
 {
   "name": "@docs/demo-is-odd",
   "version": "1.0.0",
-  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "description": "Now I am the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "deepakkurmi5 <deepakkurmi874@gmail.com>",
   "license": "ISC",
@@ -33,5 +33,5 @@
     "jest": "^29.7.0",
     "typescript": "^5.4.5"
   },
-  "gitHead": "d975eb57861cef1f4494aba8fc9aa28490debb4e"
+  "gitHead": "510ab9dec485a01b4132dc9f2b0eef5b5d7852fd"
 }
