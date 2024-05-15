@@ -3,6 +3,10 @@
   "version": "1.0.3",
   "description": "",
   "keywords": [],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "deepakkurmi5 <deepakkurmi874@gmail.com>",
   "license": "ISC",
   "main": "dist/demo-is-even.js",
