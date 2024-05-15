@@ -1,7 +1,7 @@
 {
   "name": "@docs/demo-is-even",
   "version": "1.0.0",
-  "description": "Now i am the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "description": "",
   "keywords": [],
   "author": "deepakkurmi5 <deepakkurmi874@gmail.com>",
   "license": "ISC",
@@ -30,5 +30,5 @@
     "jest": "^29.7.0",
     "typescript": "^5.4.5"
   },
-  "gitHead": "510ab9dec485a01b4132dc9f2b0eef5b5d7852fd"
+  "gitHead": "220d259410e9af7336eb7144a32de28f0bf46af1"
 }
