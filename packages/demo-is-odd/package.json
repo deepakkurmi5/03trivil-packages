@@ -1,0 +1,36 @@
+{
+  "name": "demo-is-odd",
+  "version": "0.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "deepakkurmi5 <deepakkurmi874@gmail.com>",
+  "license": "ISC",
+  "main": "dist/demo-is-odd.js",
+  "types": "dist/demo-is-odd.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakkurmi5/03trivil-packages.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/deepakkurmi5/03trivil-packages/issues"
+  },
+  "homepage": "https://github.com/deepakkurmi5/03trivil-packages#readme",
+  "dependencies": {
+    "demo-is-even": "*"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.4.5"
+  }
+}
