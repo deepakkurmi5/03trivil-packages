@@ -22,6 +22,7 @@
     "url": "git+https://github.com/deepakkurmi5/03trivil-packages.git"
   },
   "scripts": {
+    "build": "npx ts-node ./lib/calculator-check-odd.ts",
     "test": "jest"
   },
   "bugs": {
