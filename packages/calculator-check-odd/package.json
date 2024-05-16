@@ -29,7 +29,8 @@
   },
   "homepage": "https://github.com/deepakkurmi5/03trivil-packages#readme",
   "dependencies": {
-    "calculator-check-even": "^3.0.1"
+    "calculator-check-even": "^3.0.1",
+    "calculator-types": "*"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.24.5",
