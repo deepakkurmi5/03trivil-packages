@@ -1,6 +1,6 @@
 {
   "name": "calculator-check-odd",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "",
   "keywords": [],
   "publishConfig": {
@@ -31,7 +31,7 @@
   "homepage": "https://github.com/deepakkurmi5/03trivil-packages#readme",
   "dependencies": {
     "calculator-check-even": "^3.0.2",
-    "calculator-types": "^3.0.2"
+    "calculator-types": "^3.0.3"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.24.5",
