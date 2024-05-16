@@ -1,5 +1,5 @@
 {
-  "name": "calculator-types",
+  "name": "calculator-type",
   "version": "3.0.3",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -28,5 +28,6 @@
   "devDependencies": {
     "assert": "^2.1.0",
     "bn.js": "^5.2.1"
-  }
+  },
+  "gitHead": "98f9b5006c1de4a32280383d0dad45837956be78"
 }

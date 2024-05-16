@@ -38,5 +38,5 @@
     "@babel/preset-typescript": "^7.24.1",
     "jest": "^29.7.0"
   },
-  "gitHead": "84a0a74a294ce1e2c80192e0c393e1c0087ee768"
+  "gitHead": "98f9b5006c1de4a32280383d0dad45837956be78"
 }
